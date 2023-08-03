@@ -1,2 +1,9 @@
 # go-structs
-Simple repo to study strucs
+
+This project is a simple repo to undertand better the structures of go, like:
+    - Objects
+    - Comparisons
+    - Interfaces
+
+
+Lets go?
