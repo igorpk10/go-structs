@@ -1,8 +1,8 @@
 package main
 
-import objectComparison "main/comparison"
+import "main/composition"
 
 func main() {
 	// instance.Hello()
-	objectComparison.TypesTest()
+	composition.CompositionExample()
 }
