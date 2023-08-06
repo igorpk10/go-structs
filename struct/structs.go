@@ -1,14 +1,13 @@
-package objectTest
+package structs
 
 import "fmt"
 
 //In go our class work like in old C language.
 //So, we have structs
 type CurrencyAccount struct {
-	UserName      string
-	AgencyNumber  int
-	AccountNumber int
-	Balance       float32
+	UserName                    string
+	AgencyNumber, AccountNumber int
+	Balance                     float32
 }
 
 //We can create functions to our structs
